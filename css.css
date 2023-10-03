@@ -110,3 +110,7 @@ body {
 .button-button:click{
  background: #666;
 }
+
+#btn-check, #btn-ramrev {
+ display: none;
+}
